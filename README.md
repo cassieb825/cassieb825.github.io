@@ -7,7 +7,7 @@ Hi! I am a Sophomore at Lehigh University. I am majoring in [journalism](https:/
 
 
 
-![Info Graphic]![Created by Cassie Bowman](https://github.com/user-attachments/assets/853f93b7-c779-419a-9b59-acc4351f6468)
+[Created by Cassie Bowman](https://github.com/user-attachments/assets/853f93b7-c779-419a-9b59-acc4351f6468)
 
 
 This infographic represents where Lehigh's Fall 2024 Student Body calls home. 
