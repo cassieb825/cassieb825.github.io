@@ -12,3 +12,6 @@ Hi! I am a Sophomore at Lehigh University. I am majoring in [journalism](https:/
 This infographic represents where Lehigh's Fall 2024 Student Body calls home. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Gnd3BHkGsPwGqtPMN7xTLIyZczQDxaSEFiEcBG5o4gE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+!![image](https://github.com/user-attachments/assets/b8795ece-1fd8-466c-af9b-1710a7b02571)
