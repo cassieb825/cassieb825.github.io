@@ -16,3 +16,4 @@ This infographic represents where Lehigh's Fall 2024 Student Body calls home.
 
 ![image](https://github.com/user-attachments/assets/1a5b57a9-af38-45ee-be20-c44842069103)
 
+![%_of_students_in_LU's_3_undergraduate_colleges_over_5_yrs_Arts_Sci_Bus _Eng _chartbuilder](https://github.com/user-attachments/assets/ac2f20a4-84cc-4173-ae4e-351960642f99)
